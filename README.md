@@ -4,14 +4,9 @@
 
 > Curious that we spend more time congratulating people who have succeeded than encouraging people who have not. -[Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 
-## Learning Objectives
+## Overview
 
-* Test their knowledge with the following:
-	* [math](https://github.com/learn-co-curriculum/swift-math-readme)
-	* [booleans](https://github.com/learn-co-curriculum/swift-booleans-readme)
-	* [conditionals](https://github.com/learn-co-curriculum/swift-conditionals-readme)
-
-
+This lab will give you practice with math, booleans, and conditionals. 
 
 ## Instructions
 
